@@ -5,6 +5,7 @@
 
 <h2>🚀Tecnologias</h2>
 <div>
-  <img scr ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
-
+  JavaScript
+  HTML
+  CSS
 </div>
